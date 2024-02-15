@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>LeadAssignmentHandler</members>
+		<members>LeadTriggerHandler</members>
+		<members>OpportunityRevenueCalculator</members>
+		<members>OpportunityRevenueCalculatorTest</members>
+		<members>OpportunityTriggerHandler</members>
+		<members>OpportunityTriggerHandlerTest</members>
+		<members>LeadTriggerHandlerTest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>LeadValidationTrigger</members>
+		<members>OpportunityTrigger</members>
+		<name>ApexTrigger</name>
+	</types>
+	<version>58.0</version>
+</Package>
